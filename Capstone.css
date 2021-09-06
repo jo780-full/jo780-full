@@ -1,0 +1,51 @@
+
+p{
+
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+body{
+  background-color:#25dbb4;
+  border: 60px solid #08043d;
+  border-top: 10px;
+  color: white;
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  /*border-bottom: 0px;*/
+  margin: 20px;
+
+}
+form{
+  background-color: #08043d;
+}
+.userinput{
+  margin: auto;
+  width:50%;
+  height:30px;
+  border-radius: 15px;
+  margin-top: auto;
+  text-align: center;
+}
+textarea{
+    font-family: 'Montserrat', sans-serif;
+}
+#SignUp{
+  background-color: orange;
+  height: 80px;
+  width: 150px;
+  border-radius: 25px;
+  margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+#SignUp1{
+  background-color: orange;
+  height: 20px;
+  width: 80px;
+  border-radius: 25px;
+  margin-top: 10px;
+  align-self: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
