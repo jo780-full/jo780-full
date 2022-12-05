@@ -18,11 +18,9 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love sketching and Swimming and space and coding
 
+## 
 
 
-<div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt="" />
-  </div>
 
 <div align="center">
 
@@ -30,8 +28,42 @@
      width="600" height="300"/>
 </div>  
 
+## Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"
+       title="conda" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android" **alt="android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" **alt="django" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" **alt="cpp" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg.svg" title="python" **alt="python" width="40" height="40"/>
+  
+  
+  
+  
+  
+  
+  </div>
+
+
+
+
+
 ## My stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jo780-full&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo780-full&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div id="badges" align="center">
+ <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt="" />
+  </div>
 
