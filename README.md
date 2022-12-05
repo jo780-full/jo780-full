@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <img src="https://media.tenor.com/o__xR4I_KlkAAAAM/hewo-hello.gif"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZzpcMdpHIFh1oXL4nyVDrs7fDKPT_bUNIQ&usqp=CAU"  />
   
 </div>
 
@@ -8,7 +8,7 @@
 
 
 <div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt="" height="100"/>
   </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
      width="600" height="300"/>
 </div>  
 
-##About Me:
+## About Me:
 
 - 🌱 I’m currently learning Artifical Intelligence , Machine Learning and Computer Networks
 - 👯 I’m looking to collaborate on anyrhing which is within my limits :)
