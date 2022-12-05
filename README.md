@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello !!!
 
-<div id="header" align="center">
-  <img src="https://media.tenor.com/lzWZaggBm9YAAAAC/dog-waving.gif" />
+<div id="header" align="center" >
+  <img src="https://media.tenor.com/lzWZaggBm9YAAAAC/dog-waving.gif" style="border-radius:50%" />
   
 </div>
 
