@@ -1,7 +1,7 @@
 ### Hello !!!
 
 <div id="header" align="center" >
-  <img src="https://media.tenor.com/lzWZaggBm9YAAAAC/dog-waving.gif" style="border-radius:50%" />
+  <img src="https://media.tenor.com/lzWZaggBm9YAAAAC/dog-waving.gif" border-radius="50%" />
   
 </div>
 
