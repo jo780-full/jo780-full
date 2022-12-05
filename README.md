@@ -1,5 +1,3 @@
-### Hello !!!
-
 <div id="header" align="center" >
   <img src="https://media.tenor.com/o__xR4I_KlkAAAAM/hewo-hello.gif"  />
   
@@ -13,11 +11,15 @@
 </div>
 
 
+<div id="badges" align="center">
+ <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt=""/>
+  </div>
 
 
 
 
 
+##About Me:
 
 - 🌱 I’m currently learning Artifical Intelligence , Machine Learning and Computer Networks
 - 👯 I’m looking to collaborate on anyrhing which is within my limits :)
