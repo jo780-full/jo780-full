@@ -8,7 +8,15 @@
   
 </div>
 
+## About Me:
+-I'm a Student in a 3rd year  CSE at Dayanada Sagar College of Engineering
+- 🌱 I’m currently learning Artifical Intelligence , Machine Learning and Computer Networks
+- 👯 I’m looking to collaborate on anyrhing which is within my limits :)
 
+- 📫 How to reach me: josephrvishal@gmail.com     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love sketching and Swimming and space and coding
 
 
 
@@ -22,14 +30,8 @@
      width="600" height="300"/>
 </div>  
 
-## About Me:
+## My stats 
 
-- 🌱 I’m currently learning Artifical Intelligence , Machine Learning and Computer Networks
-- 👯 I’m looking to collaborate on anyrhing which is within my limits :)
-
-- 📫 How to reach me: josephrvishal@gmail.com     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love sketching and Swimming and space
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jo780-full&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo780-full&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
