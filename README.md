@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<h1>
-  <img src="https://media.tenor.com/lzWZaggBm9YAAAAC/dog-waving.gif" border-radius="50%"/>
-  </h1>
-
+<div id="header" align="center">
+  <img src="https://media.tenor.com/lzWZaggBm9YAAAAC/dog-waving.gif" />
+  
+</div>
 
 
 - 🌱 I’m currently learning Artifical Intelligence , Machine Learning and Computer Networks
