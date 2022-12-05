@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+<h1>
+  <img src="https://media.tenor.com/lzWZaggBm9YAAAAC/dog-waving.gif"/>
+  </h1>
 
 
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Artifical Intelligence , Machine Learning and Computer Networks
 - 👯 I’m looking to collaborate on anyrhing which is within my limits :)
