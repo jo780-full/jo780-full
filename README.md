@@ -1,5 +1,10 @@
+## Hello Earthling!!
+
+
+
+
 <div id="header" align="center" >
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZzpcMdpHIFh1oXL4nyVDrs7fDKPT_bUNIQ&usqp=CAU"  />
+  <img src="https://media.giphy.com/media/08PMZuWv6i5PphZNjK/giphy.gif"  />
   
 </div>
 
@@ -8,7 +13,7 @@
 
 
 <div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt="" height="100"/>
+ <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt="" height="10"/>
   </div>
 
 <div align="center">
