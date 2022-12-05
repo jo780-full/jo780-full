@@ -4,7 +4,7 @@
 
 
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/08PMZuWv6i5PphZNjK/giphy.gif" height="30" width="30" />
+  <img src="https://media.giphy.com/media/08PMZuWv6i5PphZNjK/giphy.gif" height="80" width="80" />
   
 </div>
 
@@ -13,7 +13,7 @@
 
 
 <div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt="" height="50"/>
+ <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt="" />
   </div>
 
 <div align="center">
