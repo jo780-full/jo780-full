@@ -11,7 +11,7 @@
 ## About Me:
 -I'm a Student in a 3rd year  CSE at Dayanada Sagar College of Engineering
 - 🌱 I’m currently learning Artifical Intelligence , Machine Learning and Computer Networks
-- 👯 I’m looking to collaborate on anyrhing which is within my limits :)
+- 👯 I’m looking to collaborate on anything,I can get my hands on.
 
 - 📫 How to reach me: josephrvishal@gmail.com     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 - 😄 Pronouns: He/him
