@@ -14,10 +14,10 @@
 - 👯 I’m looking to collaborate on anyrhing which is within my limits :)
 
 - 📫 How to reach me: josephrvishal@gmail.com     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love sketching and Swimming and space and coding
-
+- ⚡ Fun fact: I love sketching and Swimming,Space and coding
+- 🏆 Won Runners up in Smart Odisha Hackathon 2022
+- 💥 Participated in Hacktober Fest 2022
 ## 
 
 
