@@ -57,9 +57,6 @@
   </div>
 
 
-## Analytics 
-![Jospeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo780-full&show_icons=true&bg_color=00000000)
-
 
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=j0780-full&style=flat-square&color=blue" alt="" />
