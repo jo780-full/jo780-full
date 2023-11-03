@@ -10,12 +10,12 @@
 
 ## About Me:
 -I'm a Student in a 3rd year  CSE at Dayanada Sagar College of Engineering
-- 🌱 I’m currently learning Artifical Intelligence , Machine Learning and Computer Networks
-- 👯 I’m looking to collaborate on anything,I can get my hands on.
+- 🌱 I’m currently Explainable AI, Mobile Development and Deep Learning 
+- 👯 I’m looking to collaborate on anything, I can get my hands on.
 
 - 📫 How to reach me: josephrvishal@gmail.com     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love sketching and Swimming,Space and coding
+- ⚡ Fun fact: I love sketching and Swimming, Astronomy and coding
 - 🏆 Won Runners up in Smart Odisha Hackathon 2022
 - 💥 Participated in Hacktober Fest 2022
 ## 
