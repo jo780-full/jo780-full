@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning about  Explainable AI, Mobile Development and Deep Learning 
 - 👯 I’m looking to collaborate on anything, I can get my hands on.
 
-- 📫 How to reach me: josephrvishal@gmail.com     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- 📫 How to reach me: josephrvishal@gmail.com    <a href="https://www.linkedin.com/in/joseph-raj-vishal-004035222/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love sketching and Swimming, Astronomy and coding
 - 🏆 Won Runners up in Smart Odisha Hackathon 2022
