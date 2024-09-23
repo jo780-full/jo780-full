@@ -9,7 +9,7 @@
 </div>
 
 ## About Me:
--I'm a Student in my final year  CSE at Dayanada Sagar College of Engineering
+-I'm a Graduate Student pursuing my MS in Data Science and Analytics at Arizona State University, Tempe
 - 🌱 I’m currently learning about  Explainable AI, Mobile Development and Deep Learning 
 - 👯 I’m looking to collaborate on anything, I can get my hands on.
 
